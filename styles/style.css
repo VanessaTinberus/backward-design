@@ -1,0 +1,88 @@
+/* || general styles */
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 700px;
+  margin: 2rem auto;
+}
+
+
+/* header styles */
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin: 3rem auto 4rem auto;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.Previous {
+  width: 33.33%;
+  text-align: center;
+  float: left;
+}
+
+.Home {
+  width: 33.33%;
+  text-align: center;
+  float: left;
+}
+
+.Next {
+  width: 33.33%;
+  text-align: center;
+  float: left;
+}
+
+
+p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0 4rem 0;
+}
+
+.box ol {
+    justify-content: center;
+}
+
+
+.box ol li{
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
+
+
+.box-one ul{
+    justify-content: center;
+}
+
+.box-one ul li{
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
+
+.box-two ul{
+    justify-content: center;
+}
+
+.box-two ul li{
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
+
+.box-three ul{
+    justify-content: center;
+}
+
+.box-three ul li{
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
